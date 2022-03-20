@@ -1,0 +1,10 @@
+Id;Reference;Footprint;Qty;Value
+6;J3;PinSocket_2x20_P2.54mm_Vertical;1;40HAT
+7;BT_RTC1;Mikroteck-CR1220;1;Battery_Cell
+8;C_RTC1,C_SCREEN1,C_FAN1;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;3;1u
+9;D_FAN1;D_SOD-123;1;1N4148W
+10;M_FAN1,M_FAN_ALT1;PinHeader_1x02_P2.54mm_Vertical;2;Fan
+11;Q_FAN1;SOT-23;1;BC817
+12;R1,R2;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;2;10k
+13;R_FAN1;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1;1k
+14;U1;SOIC-16W_7.5x10.3mm_P1.27mm;1;DS3231M
